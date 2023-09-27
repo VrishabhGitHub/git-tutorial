@@ -9,7 +9,7 @@ public class Employee {
 	@Id
 	private int id;
 	private String name;
-	private String salary;
+	private String salary; 
 
 	public Employee() {
 		super();
