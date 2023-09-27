@@ -8,7 +8,7 @@ public class Employee {
 
 	@Id
 	private int id;
-	private String name;
+	private String name;    
 	private String salary; 
 
 	public Employee() {
